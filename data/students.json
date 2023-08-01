@@ -1,0 +1,19 @@
+[
+    {
+      "first_name": "Alice",
+      "last_name": "Smith",
+      "rates": [12, 15, 17, 14, 10],
+      "average_student": 13.6,
+      "username": "alice123",
+      "password": "pass123"
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "Johnson",
+      "rates": [18, 16, 19, 20, 14],
+      "average_student": 17.4,
+      "username": "bob456",
+      "password": "pass456"
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+[
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "lst_lessons": ["Math", "Physics"],
+      "username": "john_teacher",
+      "password": "teacher_pass"
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "lst_lessons": ["History", "English", "Geography"],
+      "username": "jane_teacher",
+      "password": "teacher_pass"
+    }
+  ]
+  
