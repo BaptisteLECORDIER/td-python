@@ -1,8 +1,11 @@
+# Importation des modules Students, Teachers et json
 
 from Models.student import Student
 from Models.teacher import Teacher
 import json
 
+
+# Ouverture du fichier json student
 
 with open("data/students.json", "r") as file:
     students_data = json.load(file)
