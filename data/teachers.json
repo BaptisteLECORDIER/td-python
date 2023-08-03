@@ -1,18 +1,22 @@
 [
-  {
-    "first_name": "John",
-    "last_name": "Doe",
-    "lst_lessons": ["Math"],
-    "username": "john_teacher",
-    "password": "tpw"
-  },
-  {
-    "first_name": "Jane",
-    "last_name": "Smith",
-    "lst_lessons": ["History", "Geography"],
-    "username": "jane_teacher",
-    "password": "tpw"
-  }
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "lst_lessons": [
+            "Francais",
+            "Philosophie"
+        ],
+        "username": "john_teacher",
+        "password": "tpw"
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "lst_lessons": [
+            "History",
+            "Geography"
+        ],
+        "username": "jane_teacher",
+        "password": "tpw"
+    }
 ]
-
-  
